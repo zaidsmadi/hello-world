@@ -1,12 +1,12 @@
-full_name = 'John Smith'
-age = 20
+full_name = 'Zaid Samdi'
+age = 45
 is_new=True
 print(full_name, age, is_new)
 
 print('######################1')
 
-full_name = 'John Smith'
-age = str(20)
+full_name = 'Zaid Samdi'
+age = str(45)
 is_new=True
 print(full_name, 'his age is ' + age, is_new)
 
